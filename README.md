@@ -1,6 +1,6 @@
-# Project Title
+# Sleek
 
-Sleek a Customer Relationship Manager
+A Customer Relationship Manager
 
 ## Description
 
