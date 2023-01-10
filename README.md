@@ -36,14 +36,6 @@ flask run
 * Register account. (Use your gmail app password for email password)
 * Now you can add contacts, delete contacts, and email!
 
-## Author
-
-Contact Info
-
-Doug Geng
-Email: douggeng@gmail.com
-Linkedin: https://www.linkedin.com/in/doug-geng/
-
 
 ## What I learned
 
