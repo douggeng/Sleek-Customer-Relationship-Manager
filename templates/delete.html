@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Delete Contacts
+{% endblock %}
+{% block main %}
+    <h1 class="white">Delete Contact</h1>
+    <form action="/delete" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="names" name="names" placeholder="Name" type="text">
+        </div>
+        <button class="btn btn-danger" type="sumbit">DELETE</button>
+{% endblock %}

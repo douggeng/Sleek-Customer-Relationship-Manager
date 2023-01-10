@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Send Emails
+{% endblock %}
+{% block main %}
+        <body>
+            <h1 class="white">Send Emails</h1>
+            <form action="/email" method="post">
+                <div class="mb-3">
+                    <input autofocus autocomplete="off" class="form-control mx-auto w-auto" id="emails" name="emails" placeholder="Email" type="email" required>
+                </div>
+                <div class="mb-3">
+                    <input autofocus autocomplete="off" class="form-control mx-auto w-auto" id="subject" name="subject" placeholder="Subject" type="text" required>
+                </div>
+                <div class="mb-3">
+                    <textarea autofocus class="form-control mx-auto w-auto" id="body" name="body" placeholder="Send your message" cols="36" rows="5" reqired></textarea>
+                </div>
+                <button class="btn btn-primary" type="send">Send</button>
+            </form>
+        </body>
+{% endblock %}
