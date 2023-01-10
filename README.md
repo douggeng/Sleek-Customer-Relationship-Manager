@@ -13,7 +13,7 @@ the website to your customers from your personal email address.
 
 ## Getting Started
 
-### Video Demo
+### Video Demo (Click image)
 [![Video Demo](https://img.youtube.com/vi/gb7Ahh8z0aQ/0.jpg)](https://www.youtube.com/watch?v=gb7Ahh8z0aQ)
 
 
