@@ -40,9 +40,9 @@ flask run
 
 Contact Info
 
-ex. Doug Geng
-ex. douggeng@gmail.com
-ex. [@Douggeng](https://www.linkedin.com/in/doug-geng/)
+Doug Geng
+Email: douggeng@gmail.com
+Linkedin: https://www.linkedin.com/in/doug-geng/
 
 
 ## What I learned
