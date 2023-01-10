@@ -41,7 +41,7 @@ flask run
 
 * Utilizing flask.
 * Working with 2 tables to connect user_ids with their data.
-* Practed new libraries to allow emailing.
+* Practiced new libraries to allow emailing.
 
 
 ## What I want to improve/add
